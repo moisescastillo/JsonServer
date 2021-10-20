@@ -1,0 +1,29 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "country": "Mexico",
+      "capital": "Ciudad de Mexico"
+    },
+    {
+      "id": 2,
+      "country": "Argentina",
+      "capital": "Buenos Aires"
+    },
+    {
+      "id": 3,
+      "country": "Brasil",
+      "capital": "Sao Paolo"
+    },
+    {
+      "id": 4,
+      "country": "Bolivia",
+      "capital": "La Paz"
+    },
+    {
+      "id": 5,
+      "country": "Japon",
+      "capital": "Tokio"
+    }
+  ]
+}
